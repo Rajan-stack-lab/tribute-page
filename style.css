@@ -1,0 +1,21 @@
+#title{
+    text-align: center;
+  }
+  p{
+      text-align: center;
+  }
+  #image{
+    float: center;
+    position: relative;
+    left: 18%;
+    text-align: justify;
+  }
+  ul{
+    margin-left: 32%;
+  }
+  #quote{
+    text-style: italic;
+  }
+  #footer{
+    text-style: bold;
+  }
